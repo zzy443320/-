@@ -10,20 +10,25 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vite.dev/config/).
 
-## Project Setup
+## Create a Vue project
 
 ```sh
-npm install
+npm  init  vue@latest
 ```
 
-### Compile and Hot-Reload for Development
+### Install dependencies
 
 ```sh
-npm run dev
+cnpm install
 ```
 
-### Compile and Minify for Production
+### Install the relevant packages
 
 ```sh
-npm run build
+cnpm install less -s
+cnpm install vue-router -s
+cnpm install element-plus -s
+cnpm install @element-plus/icons-vue -s
+cnpm install axios -D
+cnpm install mockjs -D
 ```
