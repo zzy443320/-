@@ -10,7 +10,7 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vite.dev/config/).
 
-## Create a Vue project
+### Create a Vue project
 
 ```sh
 npm  init  vue@latest
@@ -31,4 +31,10 @@ cnpm install element-plus -s
 cnpm install @element-plus/icons-vue -s
 cnpm install axios -D
 cnpm install mockjs -D
+```
+
+### Project running
+
+```sh
+npm run dev
 ```
