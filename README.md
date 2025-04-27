@@ -1,4 +1,4 @@
-# 赛车-vue
+# Front-end Vue Project - Imitating the F1 Page
 
 This template should help get you started developing with Vue 3 in Vite.
 
